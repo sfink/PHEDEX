@@ -8,7 +8,7 @@ PhEDEx stands for Physics Experiment Data Export.  It consists of:
  * Command-line tools for management, monitoring, and administration
    functions
 
-This README is intentionally brief.  For up-to-date documentation on
+This README is intentionally short.  For up-to-date documentation on
 PhEDEx, go to the project twiki.
 
 Twiki Documentation:
